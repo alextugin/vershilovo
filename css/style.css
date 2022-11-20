@@ -1,0 +1,22 @@
+body {
+    background: #ddd;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-weight: 400;
+}
+
+.wrap {
+    padding: 0 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 800px;
+    margin: auto;
+    height: 100vh;
+    max-height: -webkit-fill-available;
+}
